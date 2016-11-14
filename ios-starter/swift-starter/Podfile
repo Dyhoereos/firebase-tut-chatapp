@@ -3,6 +3,7 @@
 use_frameworks!
 platform :ios, '7.0'
 
+pod ‘Firebase/Core’
 pod 'Firebase/Storage'
 pod 'Firebase/AdMob'
 pod 'Firebase/Auth'
